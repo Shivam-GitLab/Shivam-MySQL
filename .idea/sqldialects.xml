@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/01 BASICS/01-BASICS.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02 INTERMEDIATE/02-Intermediate.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02 INTERMEDIATE/02-SELECT-CMD.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02 INTERMEDIATE/02-Where-Clause.sql" dialect="MySQL" />
   </component>
 </project>
