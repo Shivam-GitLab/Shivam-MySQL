@@ -1,1 +1,1 @@
-SQL Begineers
+SQL For Begineers
